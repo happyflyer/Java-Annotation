@@ -1,11 +1,13 @@
 # [Java-Annotation](https://github.com/happyflyer/Java-Annotation)
 
-- 概念：Java 提供了一种原程序中的元素关联任何信息和任何元数据的途径和方法
-- 内容：
-  - Java 中的常见注解
-  - 注解分类
-  - 自定义注解
-  - 注解应用实战
+- [全面解析 Java 注解](https://www.imooc.com/learn/456)
+
+Java 提供了一种原程序中的元素关联任何信息和任何元数据的途径和方法
+
+- Java 中的常见注解
+- 注解分类
+- 自定义注解
+- 注解应用实战
 
 ## 1. 常见的注解
 
